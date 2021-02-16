@@ -22,7 +22,7 @@
         },
         data() {
             return {
-                work1: {img: '/sample.png', txt: '〇〇なウェブアプリです。あれこれ考えてあれこれを解決することができたらと思い、制作しました。とか言ってますけど別にまだ作っていません。', url: 'javascript:void(0)'},
+                work1: {img: '/toppage.png', txt: '読書管理アプリです。読んだ本の感想などを保管できたらいいなと思い、またSPA・RESTを使用したアプリを作ってみたいと思い、作成しました。言語：Java, Vue, Docker', url: 'https://github.com/A-Takamin/my-bookshelf-front'},
                 work2: {img: '/sample.png', txt: '〇〇なウェブアプリです。あれこれ考えてあれこれを解決することができたらと思い、制作しました。とか言ってますけど別にまだ作っていません。', url: 'javascript:void(0)'}
             }
         }
